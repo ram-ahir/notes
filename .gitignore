@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
+
+# Byte-compiled / compiled binaries
+*.so
+
+# Pytest cache
+.pytest_cache/
